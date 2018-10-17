@@ -51,3 +51,10 @@ Things can always go wrong in the world of programming. If this happens, clone t
 #### Problems with the Repo
 I want this repo to work perfectly for as many users as possible. Got a problem? <a href=https://github.com/danielstern/isomorphic-react/issues/new>Open an issue!</a> Let's figure out a solution together.
 
+=== ADDING JEST TEST ===
+install jest global & local
+
+jest --watch
+jest app --watch
+jest
+jest app
